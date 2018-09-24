@@ -1,4 +1,4 @@
-# PyTorch_Image_Classifier
+# PyTorch Image Classifier
 
 ## Motivation
 
